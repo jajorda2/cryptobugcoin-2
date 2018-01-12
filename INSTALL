@@ -1,0 +1,9 @@
+Building CryptoBugCoin
+
+See doc/readme-qt.rst for instructions on building CryptoBugCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CryptoBugCoin.
+
+See doc/build-*.txt for instructions on building cryptobugcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CryptoBugCoin.
